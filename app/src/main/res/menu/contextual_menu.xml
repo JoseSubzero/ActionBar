@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itOption1"
+        android:title="@string/cerveza" />
+    <item
+        android:id="@+id/itOption2"
+        android:title="@string/descanso" />
+    <item
+        android:id="@+id/itOption3"
+        android:title="@string/paseo" />
+</menu>

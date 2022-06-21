@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="search">search</string>
+    <string name="refresh">refresh</string>
+    <string name="copy">copy</string>
+    <string name="cerveza">cerveza</string>
+    <string name="descanso">descanso</string>
+    <string name="paseo">paseo</string>
+</resources>
